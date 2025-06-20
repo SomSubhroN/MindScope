@@ -1,0 +1,26 @@
+😐 Facial Emotion: neutral
+🗣️ Voice Emotion: sadness (99.91%)
+🧠 QnA Stress Add-on: 41.12
+📊 Final Stress Score: 100/100
+
+Answers:
+Q: Do you often feel overwhelmed or hopeless?
+A: Cyclopedia no place I don't feel like doing anything
+Q: Have you lost interest in things you once enjoyed?
+A: give some lost interest in which enjoyed I do not like anything
+Q: Are you having trouble sleeping or feeling restless?
+A: yes I have travelling sleeping and feeling restless for the last few weeks I cannot sleep at night not even for an
+Q: Do you feel supported by the prople around you?
+A: yes I do feel unsupported by the people around me I do not feel supported no
+Q: Do you feel palpitations?
+A: who built palpitations
+Q: Do you have unexplained body pain?
+A: yes I have one screen body pain headache pain in the back pain in the late
+Q: Do you feel lethargic?
+A: yes I am feeling lethargy I don't feel like working
+Q: Do you have unexplained bloating?
+A: yes I am understand bloating
+Q: Do you have trembling?
+A: my hands and leads trim
+Q: Do you have respiratory distress?
+A: yes I have respiratory dist

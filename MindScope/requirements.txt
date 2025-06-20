@@ -1,0 +1,26 @@
+# Core GUI and Logic
+tkinter
+pyttsx3==2.90
+pandas==2.2.2
+
+# Emotion Detection from Face
+opencv-python==4.9.0.80
+fer==22.4.0
+facenet-pytorch==2.6.0
+
+# Speech to Text
+SpeechRecognition==3.10
+
+# Hugging Face Transformer for Text Emotion (lightweight model)
+transformers==4.40.0
+torch==2.2.2
+
+# Web and File Handling
+requests==2.31.0
+webbrowser  # part of stdlib, just a reminder
+
+# Optional: Hugging Face Hub Token Handling (if needed)
+huggingface_hub==0.23.1
+
+# Prevent Keras conflicts with FER
+tensorflow==2.15.0
